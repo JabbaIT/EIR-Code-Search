@@ -3,6 +3,13 @@
 
 # Requirements
     Playwright will need to be installed
+```
+    # Install Package
+    pip install playwright
+
+    # Install Playwright
+    playwright install
+```
 
 # Usage 
     python3 FindEirCode.py 
